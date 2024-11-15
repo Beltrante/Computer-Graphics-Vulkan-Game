@@ -1,0 +1,39 @@
+﻿  main.cpp
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(308,31): warning C4099: 'VertexDescriptor': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(162,8): message : vedere la dichiarazione di 'VertexDescriptor'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(310,22): warning C4099: 'Texture': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(208,8): message : vedere la dichiarazione di 'Texture'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(311,23): warning C4099: 'Pipeline': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(250,8): message : vedere la dichiarazione di 'Pipeline'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(312,34): warning C4099: 'DescriptorSetLayout': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(242,8): message : vedere la dichiarazione di 'DescriptorSetLayout'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(313,28): warning C4099: 'DescriptorSet': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(289,8): message : vedere la dichiarazione di 'DescriptorSet'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(1531,45): warning C4267: 'argomento': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(1794,16): warning C4244: '=': conversione da 'double' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(1795,16): warning C4244: '=': conversione da 'double' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(1836,1): warning C4554: '|': controllare eventuali errori di precedenza tra gli operatori. Per maggiore chiarezza, usare le parentesi
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(2607,46): warning C4267: '=': conversione da 'size_t' a 'uint32_t'. Possibile perdita di dati.
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(2050,37): warning C4267: 'argomento': conversione da 'size_t' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(1991,50): message : durante la compilazione della funzione membro 'void Model<VertexMesh>::loadModelOBJ(std::string)' di modello classe
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(2268,95): message : durante la compilazione della funzione membro 'void Model<VertexMesh>::init(BaseProject *,VertexDescriptor *,std::string,ModelType)' di modello classe
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\src\main.cpp(255,13): message : vedere il primo riferimento a 'Model<VertexMesh>::init' in 'A16::localInit'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\src\main.cpp(85,20): message : vedere il riferimento all'istanza 'Model<VertexMesh>' di modello classe di cui è in corso la compilazione
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(2099,25): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(2059,51): message : durante la compilazione della funzione membro 'void Model<VertexMesh>::loadModelGLTF(std::string)' di modello classe
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(2113,27): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(2127,25): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\A16\vendor\other\Starter.hpp(2141,23): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  A16.vcxproj -> C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A16\bin\Debug\A16\A16.exe

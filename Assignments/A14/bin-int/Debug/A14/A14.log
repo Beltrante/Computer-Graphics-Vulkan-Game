@@ -1,0 +1,71 @@
+﻿  main.cpp
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\Starter.hpp(300,22): warning C4099: 'Texture': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\Starter.hpp(207,8): message : vedere la dichiarazione di 'Texture'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\Starter.hpp(301,23): warning C4099: 'Pipeline': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\Starter.hpp(241,8): message : vedere la dichiarazione di 'Pipeline'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\Starter.hpp(302,34): warning C4099: 'DescriptorSetLayout': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\Starter.hpp(233,8): message : vedere la dichiarazione di 'DescriptorSetLayout'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\Starter.hpp(303,28): warning C4099: 'DescriptorSet': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\Starter.hpp(280,8): message : vedere la dichiarazione di 'DescriptorSet'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\Starter.hpp(304,31): warning C4099: 'VertexDescriptor': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\Starter.hpp(162,8): message : vedere la dichiarazione di 'VertexDescriptor'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\Starter.hpp(1522,45): warning C4267: 'argomento': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\Starter.hpp(1813,16): warning C4244: '=': conversione da 'double' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\Starter.hpp(1814,16): warning C4244: '=': conversione da 'double' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\Starter.hpp(2573,46): warning C4267: '=': conversione da 'size_t' a 'uint32_t'. Possibile perdita di dati.
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\TextMaker.hpp(9,109): warning C4305: 'inizializzazione': troncamento da 'double' a 'const float'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\TextMaker.hpp(9,116): warning C4305: 'inizializzazione': troncamento da 'double' a 'const float'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\TextMaker.hpp(9,130): warning C4305: 'inizializzazione': troncamento da 'double' a 'const float'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\TextMaker.hpp(9,136): warning C4305: 'inizializzazione': troncamento da 'double' a 'const float'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\TextMaker.hpp(102,21): warning C4267: '+=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\TextMaker.hpp(111,16): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\TextMaker.hpp(112,16): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\TextMaker.hpp(113,16): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\TextMaker.hpp(114,16): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\primGen.hpp(10,11): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\primGen.hpp(11,11): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\primGen.hpp(124,18): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\primGen.hpp(143,20): warning C4244: 'argomento': conversione da 'float' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\primGen.hpp(144,22): warning C4244: 'argomento': conversione da 'float' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\primGen.hpp(145,26): warning C4244: 'argomento': conversione da 'float' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\primGen.hpp(146,22): warning C4244: 'argomento': conversione da 'float' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\primGen.hpp(147,26): warning C4244: 'argomento': conversione da 'float' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\primGen.hpp(148,28): warning C4244: 'argomento': conversione da 'float' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\primGen.hpp(173,13): warning C4244: 'inizializzazione': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\primGen.hpp(180,10): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\primGen.hpp(182,10): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\primGen.hpp(188,10): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\A14\vendor\other\primGen.hpp(190,10): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+  A14.vcxproj -> C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A14\bin\Debug\A14\A14.exe

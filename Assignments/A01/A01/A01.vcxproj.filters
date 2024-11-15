@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{2DAB880B-99B4-887C-2230-9F7C8E38947C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vendor">
+      <UniqueIdentifier>{B3738122-9F15-ACF8-88D0-BF4C74113349}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vendor\other">
+      <UniqueIdentifier>{44A740F1-300A-D095-D98F-084CC5D19B18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vendor\other\glm">
+      <UniqueIdentifier>{93332664-7F2C-45B6-A85E-2A3B94B624C2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vendor\other\glm\detail">
+      <UniqueIdentifier>{F5073657-613F-7EEE-6A49-E211D6FFA4E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vendor\other\glm\simd">
+      <UniqueIdentifier>{CFC3773D-3B30-3338-0424-CB95704F55A0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="vendor\other\glm\simd\platform.h">
+      <Filter>vendor\other\glm\simd</Filter>
+    </ClInclude>
+    <ClInclude Include="vendor\other\stb_image.h">
+      <Filter>vendor\other</Filter>
+    </ClInclude>
+    <ClInclude Include="vendor\other\stb_image_write.h">
+      <Filter>vendor\other</Filter>
+    </ClInclude>
+    <ClInclude Include="vendor\other\tiny_gltf.h">
+      <Filter>vendor\other</Filter>
+    </ClInclude>
+    <ClInclude Include="vendor\other\tiny_obj_loader.h">
+      <Filter>vendor\other</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="vendor\other\glm\detail\glm.cpp">
+      <Filter>vendor\other\glm\detail</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

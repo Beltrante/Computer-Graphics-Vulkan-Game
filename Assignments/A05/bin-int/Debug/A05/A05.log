@@ -1,0 +1,35 @@
+﻿  main.cpp
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\Starter.hpp(277,20): warning C4099: 'Model': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\Starter.hpp(170,8): message : vedere la dichiarazione di 'Model'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\Starter.hpp(278,22): warning C4099: 'Texture': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\Starter.hpp(188,8): message : vedere la dichiarazione di 'Texture'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\Starter.hpp(279,23): warning C4099: 'Pipeline': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\Starter.hpp(222,8): message : vedere la dichiarazione di 'Pipeline'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\Starter.hpp(280,34): warning C4099: 'DescriptorSetLayout': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\Starter.hpp(214,8): message : vedere la dichiarazione di 'DescriptorSetLayout'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\Starter.hpp(281,28): warning C4099: 'DescriptorSet': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\Starter.hpp(258,8): message : vedere la dichiarazione di 'DescriptorSet'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\Starter.hpp(1499,45): warning C4267: 'argomento': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\Starter.hpp(1770,37): warning C4267: 'argomento': conversione da 'size_t' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\Starter.hpp(2124,46): warning C4267: '=': conversione da 'size_t' a 'uint32_t'. Possibile perdita di dati.
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\TextMaker.hpp(9,109): warning C4305: 'inizializzazione': troncamento da 'double' a 'const float'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\TextMaker.hpp(9,116): warning C4305: 'inizializzazione': troncamento da 'double' a 'const float'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\TextMaker.hpp(9,130): warning C4305: 'inizializzazione': troncamento da 'double' a 'const float'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\TextMaker.hpp(9,136): warning C4305: 'inizializzazione': troncamento da 'double' a 'const float'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\TextMaker.hpp(95,21): warning C4267: '+=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\TextMaker.hpp(104,16): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\TextMaker.hpp(105,16): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\TextMaker.hpp(106,16): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\TextMaker.hpp(107,16): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\src\main.cpp(138,36): warning C4305: 'argomento': troncamento da 'double' a 'float'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\src\main.cpp(272,21): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\src\main.cpp(292,10): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\src\main.cpp(293,10): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\src\main.cpp(297,24): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\src\main.cpp(298,24): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\A05\vendor\other\projection.hpp(9,10): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+  A05.vcxproj -> C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A05\bin\Debug\A05\A05.exe

@@ -1,0 +1,3 @@
+- Sun textures: https://www.solarsystemscope.com/textures/
+- Sun Model: Assignment 13
+- Gem Model and texture: https://sketchfab.com/3d-models/stylized-crystal-gem-pack-handpainted-9aa1af6e18b24c99af00e850f9fd2658

@@ -1,0 +1,29 @@
+﻿  main.cpp
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A07\A07\vendor\other\Starter.hpp(278,20): warning C4099: 'Model': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A07\A07\vendor\other\Starter.hpp(171,8): message : vedere la dichiarazione di 'Model'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A07\A07\vendor\other\Starter.hpp(279,22): warning C4099: 'Texture': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A07\A07\vendor\other\Starter.hpp(189,8): message : vedere la dichiarazione di 'Texture'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A07\A07\vendor\other\Starter.hpp(280,23): warning C4099: 'Pipeline': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A07\A07\vendor\other\Starter.hpp(223,8): message : vedere la dichiarazione di 'Pipeline'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A07\A07\vendor\other\Starter.hpp(281,34): warning C4099: 'DescriptorSetLayout': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A07\A07\vendor\other\Starter.hpp(215,8): message : vedere la dichiarazione di 'DescriptorSetLayout'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A07\A07\vendor\other\Starter.hpp(282,28): warning C4099: 'DescriptorSet': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A07\A07\vendor\other\Starter.hpp(259,8): message : vedere la dichiarazione di 'DescriptorSet'
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A07\A07\vendor\other\Starter.hpp(1500,45): warning C4267: 'argomento': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A07\A07\vendor\other\Starter.hpp(1788,16): warning C4244: '=': conversione da 'double' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A07\A07\vendor\other\Starter.hpp(1789,16): warning C4244: '=': conversione da 'double' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A07\A07\vendor\other\Starter.hpp(1878,37): warning C4267: 'argomento': conversione da 'size_t' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A07\A07\vendor\other\Starter.hpp(2232,46): warning C4267: '=': conversione da 'size_t' a 'uint32_t'. Possibile perdita di dati.
+  A07.vcxproj -> C:\Users\matte\Documents\GitHub\CGraphicsAssignment\A07\bin\Debug\A07\A07.exe
